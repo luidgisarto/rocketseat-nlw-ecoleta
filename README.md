@@ -43,7 +43,7 @@ Esse projeto foi promovido na **Trilha Booster** pela **Rocketseat** durante uma
 
 ```bash 
 
-git clone https://github.com/luidgisarto/rocketseat-nlw-ecoleta.git
+git clone https://github.com/luidgisarto/ecoleta-nlw.git
 
 ```
 
